@@ -8,7 +8,7 @@ It's so simple, we can do it in only a few easy steps:
 
 Clone this repo!
 
-`git clone https://gihub.com/paqman85/simple-celery-flower-on-heroku.git`
+`git clone https://github.com/paqman85/simple-celery-flower-on-heroku.git`
 
 ## Step 2 - Give it a home! Create a new Heroku application
 
