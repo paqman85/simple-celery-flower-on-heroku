@@ -74,7 +74,7 @@ Then set heroku as remote:
 
 And here is the command to push to heroku:
 
-`git heroku push master`
+`git push heroku master`
 
 You can confirm all is working well by checking `heroku logs --tail -a YOUR-APP_NAME'`
 
