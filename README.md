@@ -32,7 +32,7 @@ Create a Heroku app for Flower:
 
 ## Step 3 - Make the Roots! Set your Broker url.
 
-Flower needs to conenct to your Celery broker url in order to monitor your Celery Processes. This project includes Redis as a default - so feel free to use your Redis or RabbitMQ broker url.
+Flower needs to connect to your Celery broker url in order to monitor your Celery Processes. This project includes Redis as a default - so feel free to use your Redis or RabbitMQ broker url.
 
 ### On the Command Line:
 
