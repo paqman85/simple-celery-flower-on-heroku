@@ -66,7 +66,7 @@ If you don't have git set up yet:
 `git init`
 `git status`
 `git add . `
-`git commit -m "Name your commit`
+`git commit -m "Name your commit"`
 
 Then set heroku as remote:
 
